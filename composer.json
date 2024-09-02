@@ -1,0 +1,7 @@
+{
+    "name": "maximaster/array-unique-shim",
+    "description": "Bugfixed version of array_unique.",
+    "license": "MIT",
+    "autoload": {"files": ["src/array_unique.php"]},
+    "authors": [{"name": "Лавриненко Максим", "email": "maxim.lavrinenko@maximaster.ru"}]
+}
